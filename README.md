@@ -1,3 +1,9 @@
+# Projeto de aprendizagem do Reactjs
+
+Projeto desenvolvido acompanhando a live do canal do Boniek Lacerda no Youtube.
+Link para a live gravada: 
+## https://www.youtube.com/watch?v=tBweoUiMsDg&t=10742s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
